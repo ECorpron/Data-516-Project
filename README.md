@@ -24,3 +24,6 @@ Contains reports written for the project
 
 ### data
 contains the raw data used in the analysis. I currently don't save any intermediate data files.
+
+## Research Implications
+It is currently still very early on to make any hard statements, but the figures I have made so far seem to imply that masking mandates in El Paso had little to no effect on the rates of death in El Paso.
