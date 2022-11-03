@@ -11,3 +11,16 @@ under the Creative Commons license (https://creativecommons.org/licenses/by/4.0/
 (Unspecified License)
 * Mask mandate compliance data is from the New York Times: https://github.com/nytimes/covid-19-data/tree/master/mask-use
 Link to the New York Times license (https://github.com/nytimes/covid-19-data/blob/master/LICENSE)
+
+## Code Instructions
+To run the code and get the outputs found in the repository run the Project Part 1 notebook file. Currently all outputs are made within the notebook.
+
+## Folders
+### Figures
+This folder contains figures I find interesting. Currently all figures are made within the Project Part 1 file.
+
+### Write-ups
+Contains reports written for the project
+
+### data
+contains the raw data used in the analysis. I currently don't save any intermediate data files.
