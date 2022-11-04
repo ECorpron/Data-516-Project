@@ -15,7 +15,7 @@ Link to the New York Times license (https://github.com/nytimes/covid-19-data/blo
 ## Structure
 ### Covid Death Data
 #### Interested Fields
-* asd
+* deaths: The cumulitive number of deaths
 
 
 ## Code Instructions
