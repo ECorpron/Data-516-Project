@@ -33,7 +33,6 @@ Not currenty used in the analysis code, and only contains a single row for the E
 * County_Name: The county name, includes 'county' (El Paso is 'El Paso County')
 * date: The date for the date, in the form "mm/dd/yyyy"
 * Face_Masks_Required_in_Public: If there was a mandate in effect. Is either "Yes", "No" or NaN
-* 
 
 ## Code Instructions
 To run the code and get the outputs found in the repository run the Project Part 1 notebook file. Currently all outputs are made within the notebook.
