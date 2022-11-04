@@ -29,7 +29,8 @@ Link to the New York Times license (https://github.com/nytimes/covid-19-data/blo
 Not currenty used in the analysis code, and only contains a single row for the El Paso county.
 
 ## Mask Mandate Data
-*
+* State_Tribe_Territory: The state code (Colorado is 'CO')
+* County_Name: The county name, includes 'county' (El Paso is 'El Paso County')
 
 ## Code Instructions
 To run the code and get the outputs found in the repository run the Project Part 1 notebook file. Currently all outputs are made within the notebook.
