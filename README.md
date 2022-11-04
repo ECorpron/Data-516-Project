@@ -12,11 +12,24 @@ under the Creative Commons license (https://creativecommons.org/licenses/by/4.0/
 * Mask mandate compliance data is from the New York Times: https://github.com/nytimes/covid-19-data/tree/master/mask-use
 Link to the New York Times license (https://github.com/nytimes/covid-19-data/blob/master/LICENSE)
 
-## Structure
+## Structure of the Data
 ### Covid Death Data
-#### Interested Fields
-* deaths: The cumulitive number of deaths
+* Province_State: The state
+* Admin2: The county
+* FIPS: Uniquely identifying code for the county
+* Rows 13 On: Column header is the date in "yyyy-mm-dd" form, with the row value being the cumulative total of deaths
 
+## Mask Mandate Compliance Data
+* COUNTYFP: The county FIPS code
+* NEVER: Percent of people in the county who never follow mandates
+* RARELY: Percent of people who rarely follow mandates
+* SOMETIMES: Percent of people who sometimes follow mandates
+* FREQUENTLY: Percent of people who frequently follow mandates
+* ALWAYS: Percent of people who always follow mandates
+Not currenty used in the analysis code, and only contains a single row for the El Paso county.
+
+## Mask Mandate Data
+*
 
 ## Code Instructions
 To run the code and get the outputs found in the repository run the Project Part 1 notebook file. Currently all outputs are made within the notebook.
