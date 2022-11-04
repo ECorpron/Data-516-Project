@@ -31,6 +31,9 @@ Not currenty used in the analysis code, and only contains a single row for the E
 ## Mask Mandate Data
 * State_Tribe_Territory: The state code (Colorado is 'CO')
 * County_Name: The county name, includes 'county' (El Paso is 'El Paso County')
+* date: The date for the date, in the form "mm/dd/yyyy"
+* Face_Masks_Required_in_Public: If there was a mandate in effect. Is either "Yes", "No" or NaN
+* 
 
 ## Code Instructions
 To run the code and get the outputs found in the repository run the Project Part 1 notebook file. Currently all outputs are made within the notebook.
@@ -47,3 +50,6 @@ contains the raw data used in the analysis. I currently don't save any intermedi
 
 ## Research Implications
 It is currently still very early on to make any hard statements, but the figures I have made so far seem to imply that masking mandates in El Paso had little to no effect on the rates of death in El Paso.
+
+## Possible Problems with Analysis
+There are a number of potential problems. The major one is that we treat all mask mandates as the same, even though who was required to where a mask and where they were required changed from mandate to mandate. We have not done the necessary research yet in to the mandates enacted in El Paso.
