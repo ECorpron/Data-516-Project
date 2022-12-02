@@ -1,0 +1,573 @@
+,date,deaths,Deaths_A_Day,State_Tribe_Territory,County_Name,FIPS_State,FIPS_County,order_code,Face_Masks_Required_in_Public,Source_of_Action,URL,Citation
+0,2020-01-22,0,0,,,,,,No,,,
+1,2020-01-23,0,0,,,,,,No,,,
+2,2020-01-24,0,0,,,,,,No,,,
+3,2020-01-25,0,0,,,,,,No,,,
+4,2020-01-26,0,0,,,,,,No,,,
+5,2020-01-27,0,0,,,,,,No,,,
+6,2020-01-28,0,0,,,,,,No,,,
+7,2020-01-29,0,0,,,,,,No,,,
+8,2020-01-30,0,0,,,,,,No,,,
+9,2020-01-31,0,0,,,,,,No,,,
+10,2020-02-01,0,0,,,,,,No,,,
+11,2020-02-02,0,0,,,,,,No,,,
+12,2020-02-03,0,0,,,,,,No,,,
+13,2020-02-04,0,0,,,,,,No,,,
+14,2020-02-05,0,0,,,,,,No,,,
+15,2020-02-06,0,0,,,,,,No,,,
+16,2020-02-07,0,0,,,,,,No,,,
+17,2020-02-08,0,0,,,,,,No,,,
+18,2020-02-09,0,0,,,,,,No,,,
+19,2020-02-10,0,0,,,,,,No,,,
+20,2020-02-11,0,0,,,,,,No,,,
+21,2020-02-12,0,0,,,,,,No,,,
+22,2020-02-13,0,0,,,,,,No,,,
+23,2020-02-14,0,0,,,,,,No,,,
+24,2020-02-15,0,0,,,,,,No,,,
+25,2020-02-16,0,0,,,,,,No,,,
+26,2020-02-17,0,0,,,,,,No,,,
+27,2020-02-18,0,0,,,,,,No,,,
+28,2020-02-19,0,0,,,,,,No,,,
+29,2020-02-20,0,0,,,,,,No,,,
+30,2020-02-21,0,0,,,,,,No,,,
+31,2020-02-22,0,0,,,,,,No,,,
+32,2020-02-23,0,0,,,,,,No,,,
+33,2020-02-24,0,0,,,,,,No,,,
+34,2020-02-25,0,0,,,,,,No,,,
+35,2020-02-26,0,0,,,,,,No,,,
+36,2020-02-27,0,0,,,,,,No,,,
+37,2020-02-28,0,0,,,,,,No,,,
+38,2020-02-29,0,0,,,,,,No,,,
+39,2020-03-01,0,0,,,,,,No,,,
+40,2020-03-02,0,0,,,,,,No,,,
+41,2020-03-03,0,0,,,,,,No,,,
+42,2020-03-04,0,0,,,,,,No,,,
+43,2020-03-05,0,0,,,,,,No,,,
+44,2020-03-06,0,0,,,,,,No,,,
+45,2020-03-07,0,0,,,,,,No,,,
+46,2020-03-08,0,0,,,,,,No,,,
+47,2020-03-09,0,0,,,,,,No,,,
+48,2020-03-10,0,0,,,,,,No,,,
+49,2020-03-11,0,0,,,,,,No,,,
+50,2020-03-12,1,1,,,,,,No,,,
+51,2020-03-13,2,1,,,,,,No,,,
+52,2020-03-14,2,0,,,,,,No,,,
+53,2020-03-15,2,0,,,,,,No,,,
+54,2020-03-16,2,0,,,,,,No,,,
+55,2020-03-17,2,0,,,,,,No,,,
+56,2020-03-18,2,0,,,,,,No,,,
+57,2020-03-19,3,1,,,,,,No,,,
+58,2020-03-20,3,0,,,,,,No,,,
+59,2020-03-21,3,0,,,,,,No,,,
+60,2020-03-22,3,0,,,,,,No,,,
+61,2020-03-23,3,0,,,,,,No,,,
+62,2020-03-24,4,1,,,,,,No,,,
+63,2020-03-25,5,1,,,,,,No,,,
+64,2020-03-26,5,0,,,,,,No,,,
+65,2020-03-27,7,2,,,,,,No,,,
+66,2020-03-28,10,3,,,,,,No,,,
+67,2020-03-29,11,1,,,,,,No,,,
+68,2020-03-30,11,0,,,,,,No,,,
+69,2020-03-31,13,2,,,,,,No,,,
+70,2020-04-01,49,36,,,,,,No,,,
+71,2020-04-02,51,2,,,,,,No,,,
+72,2020-04-03,56,5,,,,,,No,,,
+73,2020-04-04,58,2,,,,,,No,,,
+74,2020-04-05,58,0,,,,,,No,,,
+75,2020-04-06,61,3,,,,,,No,,,
+76,2020-04-07,62,1,,,,,,No,,,
+77,2020-04-08,64,2,,,,,,No,,,
+78,2020-04-09,64,0,,,,,,No,,,
+79,2020-04-10,64,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+80,2020-04-11,64,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+81,2020-04-12,65,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+82,2020-04-13,66,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+83,2020-04-14,66,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+84,2020-04-15,66,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+85,2020-04-16,66,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+86,2020-04-17,66,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+87,2020-04-18,66,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+88,2020-04-19,66,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+89,2020-04-20,67,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+90,2020-04-21,67,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+91,2020-04-22,67,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+92,2020-04-23,73,6,CO,El Paso County,8.0,41.0,2.0,No,,,
+93,2020-04-24,73,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+94,2020-04-25,74,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+95,2020-04-26,74,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+96,2020-04-27,74,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+97,2020-04-28,74,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+98,2020-04-29,75,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+99,2020-04-30,76,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+100,2020-05-01,77,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+101,2020-05-02,78,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+102,2020-05-03,78,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+103,2020-05-04,78,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+104,2020-05-05,78,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+105,2020-05-06,78,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+106,2020-05-07,79,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+107,2020-05-08,79,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+108,2020-05-09,80,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+109,2020-05-10,80,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+110,2020-05-11,80,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+111,2020-05-12,80,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+112,2020-05-13,80,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+113,2020-05-14,82,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+114,2020-05-15,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+115,2020-05-16,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+116,2020-05-17,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+117,2020-05-18,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+118,2020-05-19,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+119,2020-05-20,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+120,2020-05-21,82,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+121,2020-05-22,92,10,CO,El Paso County,8.0,41.0,2.0,No,,,
+122,2020-05-23,96,4,CO,El Paso County,8.0,41.0,2.0,No,,,
+123,2020-05-24,96,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+124,2020-05-25,96,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+125,2020-05-26,96,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+126,2020-05-27,100,4,CO,El Paso County,8.0,41.0,2.0,No,,,
+127,2020-05-28,101,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+128,2020-05-29,106,5,CO,El Paso County,8.0,41.0,2.0,No,,,
+129,2020-05-30,108,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+130,2020-05-31,108,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+131,2020-06-01,108,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+132,2020-06-02,108,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+133,2020-06-03,109,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+134,2020-06-04,112,3,CO,El Paso County,8.0,41.0,2.0,No,,,
+135,2020-06-05,112,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+136,2020-06-06,112,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+137,2020-06-07,112,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+138,2020-06-08,112,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+139,2020-06-09,112,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+140,2020-06-10,112,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+141,2020-06-11,113,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+142,2020-06-12,113,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+143,2020-06-13,113,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+144,2020-06-14,113,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+145,2020-06-15,114,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+146,2020-06-16,115,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+147,2020-06-17,115,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+148,2020-06-18,115,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+149,2020-06-19,115,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+150,2020-06-20,115,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+151,2020-06-21,115,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+152,2020-06-22,115,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+153,2020-06-23,117,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+154,2020-06-24,117,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+155,2020-06-25,119,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+156,2020-06-26,119,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+157,2020-06-27,119,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+158,2020-06-28,119,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+159,2020-06-29,120,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+160,2020-06-30,121,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+161,2020-07-01,123,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+162,2020-07-02,124,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+163,2020-07-03,124,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+164,2020-07-04,126,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+165,2020-07-05,126,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+166,2020-07-06,128,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+167,2020-07-07,128,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+168,2020-07-08,129,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+169,2020-07-09,130,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+170,2020-07-10,131,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+171,2020-07-11,131,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+172,2020-07-12,131,0,CO,El Paso County,8.0,41.0,2.0,No,,,
+173,2020-07-13,133,2,CO,El Paso County,8.0,41.0,2.0,No,,,
+174,2020-07-14,134,1,CO,El Paso County,8.0,41.0,2.0,No,,,
+175,2020-07-15,137,3,CO,El Paso County,8.0,41.0,2.0,No,,,
+176,2020-07-16,141,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+177,2020-07-17,143,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+178,2020-07-18,143,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+179,2020-07-19,145,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+180,2020-07-20,145,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+181,2020-07-21,148,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+182,2020-07-22,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+183,2020-07-23,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+184,2020-07-24,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+185,2020-07-25,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+186,2020-07-26,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+187,2020-07-27,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+188,2020-07-28,148,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+189,2020-07-29,149,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20138%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2020-138 (July 16, 2020)"
+190,2020-07-30,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+191,2020-07-31,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+192,2020-08-01,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+193,2020-08-02,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+194,2020-08-03,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+195,2020-08-04,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+196,2020-08-05,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+197,2020-08-06,149,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+198,2020-08-07,150,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+199,2020-08-08,150,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+200,2020-08-09,151,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+201,2020-08-10,152,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+202,2020-08-11,152,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+203,2020-08-12,152,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+204,2020-08-13,153,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Nue6DdpQ1fpO8VUtt_lhQVwjVwwN4aN_/view,"Colo. Health Order No. 20-28 Amendment 9 (July 30, 2020)"
+205,2020-08-14,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+206,2020-08-15,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+207,2020-08-16,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+208,2020-08-17,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+209,2020-08-18,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+210,2020-08-19,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+211,2020-08-20,153,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20164%20Non%20Medical%20Face%20Covering.pdf,"Colo. Exec. Order. No. D 2020-164 (Aug. 14, 2020)"
+212,2020-08-21,155,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+213,2020-08-22,155,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+214,2020-08-23,155,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+215,2020-08-24,155,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+216,2020-08-25,159,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+217,2020-08-26,161,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+218,2020-08-27,163,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+219,2020-08-28,163,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+220,2020-08-29,163,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+221,2020-08-30,163,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+222,2020-08-31,163,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+223,2020-09-01,163,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+224,2020-09-02,163,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+225,2020-09-03,165,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+226,2020-09-04,165,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+227,2020-09-05,165,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+228,2020-09-06,165,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+229,2020-09-07,169,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+230,2020-09-08,173,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+231,2020-09-09,173,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+232,2020-09-10,174,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+233,2020-09-11,176,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1VtBkCA8EeNkoDrnPs6gzrUTjffiQe7N4/view,"Colo. Health Order No. 20-28 Amendment 10 (Aug. 21, 2020)"
+234,2020-09-12,176,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+235,2020-09-13,176,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+236,2020-09-14,177,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+237,2020-09-15,179,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+238,2020-09-16,181,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+239,2020-09-17,181,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+240,2020-09-18,182,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+241,2020-09-19,182,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1mjKwN5kRGO2Rqoxyx8rOBMImnhg3CTIX/view,"Colo. Exec. Order No. D 2020-190 (Sept. 12, 2020)"
+242,2020-09-20,183,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+243,2020-09-21,184,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+244,2020-09-22,184,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+245,2020-09-23,184,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+246,2020-09-24,185,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+247,2020-09-25,186,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+248,2020-09-26,186,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+249,2020-09-27,187,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+250,2020-09-28,189,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+251,2020-09-29,189,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+252,2020-09-30,189,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+253,2020-10-01,190,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+254,2020-10-02,190,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+255,2020-10-03,191,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+256,2020-10-04,192,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+257,2020-10-05,192,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+258,2020-10-06,193,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+259,2020-10-07,195,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 (Sept. 20, 2020)"
+260,2020-10-08,198,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 Amendment 2 (Oct. 8, 2020)"
+261,2020-10-09,199,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 Amendment 2 (Oct. 8, 2020)"
+262,2020-10-10,199,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1wRxIxSUPE7NSQKf0wnr5P7BB2PAl9h_k/view,"Colo. Health Order No. 20-35 Amendment 2 (Oct. 8, 2020)"
+263,2020-10-11,199,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+264,2020-10-12,199,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+265,2020-10-13,199,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+266,2020-10-14,199,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+267,2020-10-15,200,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+268,2020-10-16,202,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+269,2020-10-17,204,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+270,2020-10-18,206,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+271,2020-10-19,206,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+272,2020-10-20,208,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+273,2020-10-21,210,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+274,2020-10-22,213,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20219%20Nonmedical%20Face%20Coverings.pdf,"Colo. Exec. Order No. D 2020-219 (Oct. 11, 2020)"
+275,2020-10-23,215,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1DDyfYZ5X0iTyOh18UPwd1otyPjCssEgS/view,"Colo. Health Order No. 20-35 Amendment 3 (Oct. 23, 2020)"
+276,2020-10-24,216,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1DDyfYZ5X0iTyOh18UPwd1otyPjCssEgS/view,"Colo. Health Order No. 20-35 Amendment 3 (Oct. 23, 2020)"
+277,2020-10-25,217,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1DDyfYZ5X0iTyOh18UPwd1otyPjCssEgS/view,"Colo. Health Order No. 20-35 Amendment 3 (Oct. 23, 2020)"
+278,2020-10-26,220,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1DDyfYZ5X0iTyOh18UPwd1otyPjCssEgS/view,"Colo. Health Order No. 20-35 Amendment 3 (Oct. 23, 2020)"
+279,2020-10-27,221,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14_GaVScXNeYPrT6ZmTw1MuU9_A1egOAd/view,"Colo. Health Order Order No. 20-35 Amendment No. 4 (Oct. 27, 2020)"
+280,2020-10-28,222,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14_GaVScXNeYPrT6ZmTw1MuU9_A1egOAd/view,"Colo. Health Order Order No. 20-35 Amendment No. 4 (Oct. 27, 2020)"
+281,2020-10-29,228,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14_GaVScXNeYPrT6ZmTw1MuU9_A1egOAd/view,"Colo. Health Order Order No. 20-35 Amendment No. 4 (Oct. 27, 2020)"
+282,2020-10-30,228,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14_GaVScXNeYPrT6ZmTw1MuU9_A1egOAd/view,"Colo. Health Order Order No. 20-35 Amendment No. 4 (Oct. 27, 2020)"
+283,2020-10-31,230,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14_GaVScXNeYPrT6ZmTw1MuU9_A1egOAd/view,"Colo. Health Order Order No. 20-35 Amendment No. 4 (Oct. 27, 2020)"
+284,2020-11-01,230,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14_GaVScXNeYPrT6ZmTw1MuU9_A1egOAd/view,"Colo. Health Order Order No. 20-35 Amendment No. 4 (Oct. 27, 2020)"
+285,2020-11-02,234,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+286,2020-11-03,239,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+287,2020-11-04,242,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+288,2020-11-05,247,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+289,2020-11-06,252,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+290,2020-11-07,258,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+291,2020-11-08,260,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1m_tYVWNTMJAuqt3kq9d2_6SNqrL7fLa7/view,"Colo. Health Order No. 20-36 (Nov. 2, 2020)"
+292,2020-11-09,269,9,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+293,2020-11-10,275,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+294,2020-11-11,285,10,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+295,2020-11-12,294,9,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+296,2020-11-13,301,7,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+297,2020-11-14,306,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+298,2020-11-15,311,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+299,2020-11-16,326,15,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1nQ6PAHIpHjmN5hXl_gxcudO5S0lGxx6h/view,"Colo. Exec. Order No. D 2020-245 (Nov. 9, 2020)"
+300,2020-11-17,330,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1N6ofsmJk5gGkEvX34UPD_b3vBmg5hrMz/view,"Colo. Health Order No. 20-36 Amendment 1 (Nov. 17, 2020)"
+301,2020-11-18,333,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1N6ofsmJk5gGkEvX34UPD_b3vBmg5hrMz/view,"Colo. Health Order No. 20-36 Amendment 1 (Nov. 17, 2020)"
+302,2020-11-19,348,15,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1N6ofsmJk5gGkEvX34UPD_b3vBmg5hrMz/view,"Colo. Health Order No. 20-36 Amendment 1 (Nov. 17, 2020)"
+303,2020-11-20,358,10,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+304,2020-11-21,366,8,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+305,2020-11-22,371,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+306,2020-11-23,383,12,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+307,2020-11-24,399,16,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+308,2020-11-25,411,12,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+309,2020-11-26,414,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+310,2020-11-27,434,20,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+311,2020-11-28,445,11,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+312,2020-11-29,451,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+313,2020-11-30,459,8,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+314,2020-12-01,475,16,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+315,2020-12-02,484,9,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+316,2020-12-03,499,15,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+317,2020-12-04,517,18,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+318,2020-12-05,524,7,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+319,2020-12-06,529,5,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1tuesNFfblAKcw62ao-fALbBxSUC0gccP/view,"Colo. Health Order No. 20-36 Amendment 2 (Nov. 20, 2020)"
+320,2020-12-07,542,13,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/14El-qBmb1QTLZb2lBuGdocZrJMJlx3wy/view,"Colo. Health Order No. 20-36 Amendment 3 (Dec. 7, 2020)"
+321,2020-12-08,545,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20276.pdf,"Colo. Exec. Order No. D 2020-276 (Dec. 8, 2020)"
+322,2020-12-09,551,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20276.pdf,"Colo. Exec. Order No. D 2020-276 (Dec. 8, 2020)"
+323,2020-12-10,560,9,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20276.pdf,"Colo. Exec. Order No. D 2020-276 (Dec. 8, 2020)"
+324,2020-12-11,567,7,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20276.pdf,"Colo. Exec. Order No. D 2020-276 (Dec. 8, 2020)"
+325,2020-12-12,568,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20276.pdf,"Colo. Exec. Order No. D 2020-276 (Dec. 8, 2020)"
+326,2020-12-13,571,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20276.pdf,"Colo. Exec. Order No. D 2020-276 (Dec. 8, 2020)"
+327,2020-12-14,575,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+328,2020-12-15,585,10,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+329,2020-12-16,591,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+330,2020-12-17,597,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+331,2020-12-18,607,10,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+332,2020-12-19,608,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+333,2020-12-20,614,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+334,2020-12-21,625,11,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+335,2020-12-22,631,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+336,2020-12-23,638,7,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+337,2020-12-24,647,9,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+338,2020-12-25,650,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+339,2020-12-26,653,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+340,2020-12-27,656,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+341,2020-12-28,668,12,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+342,2020-12-29,671,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+343,2020-12-30,678,7,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+344,2020-12-31,684,6,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+345,2021-01-01,688,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+346,2021-01-02,692,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+347,2021-01-03,692,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202020%20281%20Face%20Covering%20Amendment.pdf,"Colo. Exec. Order No. D 2020-281 (Dec. 14, 2020)"
+348,2021-01-04,694,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1ZeHik4-YQxDJqIdgFvc5yqheqIZpdVTU/view,"Colo. Health Order No. 20-36 Amendment 4 (Jan. 4, 2021)"
+349,2021-01-05,698,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1ZeHik4-YQxDJqIdgFvc5yqheqIZpdVTU/view,"Colo. Health Order No. 20-36 Amendment 4 (Jan. 4, 2021)"
+350,2021-01-06,700,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+351,2021-01-07,703,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+352,2021-01-08,705,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+353,2021-01-09,705,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+354,2021-01-10,707,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+355,2021-01-11,711,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+356,2021-01-12,712,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+357,2021-01-13,712,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+358,2021-01-14,714,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+359,2021-01-15,716,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+360,2021-01-16,717,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+361,2021-01-17,717,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+362,2021-01-18,720,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+363,2021-01-19,723,3,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+364,2021-01-20,724,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+365,2021-01-21,725,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+366,2021-01-22,727,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+367,2021-01-23,727,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+368,2021-01-24,728,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+369,2021-01-25,729,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+370,2021-01-26,729,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+371,2021-01-27,733,4,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+372,2021-01-28,735,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+373,2021-01-29,735,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+374,2021-01-30,735,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+375,2021-01-31,735,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+376,2021-02-01,736,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+377,2021-02-02,737,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20007%20Mask%20Order%20Extension.pdf,"Colo. Exec. Order No. D 2021-007 (Jan. 6, 2021)"
+378,2021-02-03,739,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1xI_gjgDD1RN6Omu-0VBKfza7ZsMPFI8l/view,"Colo. Health Order No. 20-36 Amendment 5 (Feb. 3, 2021)"
+379,2021-02-04,739,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20035%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2021-035 (Feb. 4, 2021)"
+380,2021-02-05,739,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20035%20Mask%20Order.pdf,"Colo. Exec. Order No. D 2021-035 (Feb. 4, 2021)"
+381,2021-02-06,740,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+382,2021-02-07,741,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+383,2021-02-08,743,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+384,2021-02-09,745,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+385,2021-02-10,745,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+386,2021-02-11,745,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+387,2021-02-12,745,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1bR3TCaWtK83-tgJEdwZd-l3YVsnjDvif/view,"Colo. Health Order No. 20-36 Amendment 6 (Feb. 5, 2021)"
+388,2021-02-13,746,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+389,2021-02-14,747,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+390,2021-02-15,749,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+391,2021-02-16,750,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+392,2021-02-17,750,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+393,2021-02-18,751,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+394,2021-02-19,751,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+395,2021-02-20,752,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+396,2021-02-21,752,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+397,2021-02-22,752,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+398,2021-02-23,752,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+399,2021-02-24,753,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+400,2021-02-25,753,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+401,2021-02-26,753,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+402,2021-02-27,754,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+403,2021-02-28,755,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+404,2021-03-01,755,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+405,2021-03-02,755,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+406,2021-03-03,756,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+407,2021-03-04,757,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/15C3eMTyAAqvkmtth-mH3MhmzuKITsP7j/view,"Colo. Health Order No. 20-36 Amendment 7 (Feb. 12, 2021)"
+408,2021-03-05,758,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Z-Dy3vCOzOzbXGm4Cfc8O1S6YZrlKBr8/view,"Colo. Exec. Order No. D 2021-056 (Mar. 5, 2021)"
+409,2021-03-06,758,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1Z-Dy3vCOzOzbXGm4Cfc8O1S6YZrlKBr8/view,"Colo. Exec. Order No. D 2021-056 (Mar. 5, 2021)"
+410,2021-03-07,758,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+411,2021-03-08,760,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+412,2021-03-09,760,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+413,2021-03-10,761,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+414,2021-03-11,761,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+415,2021-03-12,763,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+416,2021-03-13,763,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+417,2021-03-14,763,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+418,2021-03-15,763,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+419,2021-03-16,763,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+420,2021-03-17,763,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+421,2021-03-18,764,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+422,2021-03-19,764,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+423,2021-03-20,764,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+424,2021-03-21,764,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+425,2021-03-22,765,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+426,2021-03-23,767,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1KPNMKVzWx2KbAqAjja-lGfO6v4CqFOZ7/view,"Colo. Health Order No. 20-36 Amendment 8 (Mar. 7, 2021)"
+427,2021-03-24,767,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+428,2021-03-25,767,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+429,2021-03-26,767,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+430,2021-03-27,767,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+431,2021-03-28,769,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+432,2021-03-29,770,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+433,2021-03-30,770,0,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+434,2021-03-31,772,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+435,2021-04-01,773,1,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+436,2021-04-02,775,2,CO,El Paso County,8.0,41.0,1.0,Yes,Official,https://drive.google.com/file/d/1erJtOVUPOyqnFLgNTzSJDaMCa3Vpk4Ys/view,"Colo. Health Order No. 20-36 Amendment 9 (Mar. 23, 2021)"
+437,2021-04-03,776,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20079%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-079 (Apr. 3, 2021)"
+438,2021-04-04,776,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+439,2021-04-05,777,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+440,2021-04-06,779,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+441,2021-04-07,780,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+442,2021-04-08,780,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+443,2021-04-09,780,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+444,2021-04-10,781,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+445,2021-04-11,781,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+446,2021-04-12,782,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+447,2021-04-13,784,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+448,2021-04-14,788,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+449,2021-04-15,788,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1euTgw2KzkBTYBYpCWmZsMId45ckacau8/view,"Colo. Health Order No. 20-36 Amendment 10 (Apr. 4, 2021)"
+450,2021-04-16,790,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+451,2021-04-17,791,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+452,2021-04-18,793,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+453,2021-04-19,795,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+454,2021-04-20,795,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+455,2021-04-21,799,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+456,2021-04-22,801,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+457,2021-04-23,805,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+458,2021-04-24,806,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+459,2021-04-25,806,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+460,2021-04-26,807,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+461,2021-04-27,807,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+462,2021-04-28,811,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+463,2021-04-29,813,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+464,2021-04-30,815,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+465,2021-05-01,815,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1dNbRJfjyHoPrUbNNALtTPgvG93FPY_NZ/view,"Colo. Health Order No. 20-38 (Apr. 15, 2021)"
+466,2021-05-02,816,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+467,2021-05-03,819,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+468,2021-05-04,820,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+469,2021-05-05,825,5,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+470,2021-05-06,826,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+471,2021-05-07,830,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+472,2021-05-08,830,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+473,2021-05-09,830,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+474,2021-05-10,834,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+475,2021-05-11,836,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+476,2021-05-12,839,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+477,2021-05-13,839,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+478,2021-05-14,842,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20095%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-095 (May 2, 2021)"
+479,2021-05-15,843,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+480,2021-05-16,844,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+481,2021-05-17,845,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+482,2021-05-18,847,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+483,2021-05-19,847,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+484,2021-05-20,848,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+485,2021-05-21,848,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+486,2021-05-22,849,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+487,2021-05-23,852,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+488,2021-05-24,854,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+489,2021-05-25,854,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+490,2021-05-26,855,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+491,2021-05-27,855,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+492,2021-05-28,859,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+493,2021-05-29,860,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+494,2021-05-30,860,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+495,2021-05-31,862,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://www.colorado.gov/governor/sites/default/files/inline-files/D%202021%20103%20Face%20Covering%20Order.pdf,"Colo. Exec. Order No. D 2021-103 (May 14, 2021)"
+496,2021-06-01,865,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+497,2021-06-02,866,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+498,2021-06-03,867,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+499,2021-06-04,868,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+500,2021-06-05,869,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+501,2021-06-06,870,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+502,2021-06-07,870,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+503,2021-06-08,870,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+504,2021-06-09,870,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+505,2021-06-10,871,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+506,2021-06-11,872,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+507,2021-06-12,872,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+508,2021-06-13,873,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+509,2021-06-14,877,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+510,2021-06-15,878,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+511,2021-06-16,880,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+512,2021-06-17,881,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+513,2021-06-18,881,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+514,2021-06-19,881,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+515,2021-06-20,882,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+516,2021-06-21,882,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+517,2021-06-22,882,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+518,2021-06-23,882,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+519,2021-06-24,883,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+520,2021-06-25,885,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+521,2021-06-26,885,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+522,2021-06-27,886,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+523,2021-06-28,887,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+524,2021-06-29,888,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+525,2021-06-30,888,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/1fIYXM08Ck2zHPSxhHusybGfwJ_f8ROjR/view,"Colo. Health Order No. 20-38 Amended 3 (May 31, 2021)"
+526,2021-07-01,890,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+527,2021-07-02,890,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+528,2021-07-03,890,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+529,2021-07-04,891,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+530,2021-07-05,893,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+531,2021-07-06,894,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+532,2021-07-07,894,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+533,2021-07-08,895,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+534,2021-07-09,895,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+535,2021-07-10,895,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+536,2021-07-11,898,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+537,2021-07-12,899,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+538,2021-07-13,899,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+539,2021-07-14,901,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+540,2021-07-15,903,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+541,2021-07-16,903,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+542,2021-07-17,904,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+543,2021-07-18,906,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+544,2021-07-19,907,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+545,2021-07-20,909,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+546,2021-07-21,910,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+547,2021-07-22,911,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+548,2021-07-23,911,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+549,2021-07-24,913,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+550,2021-07-25,913,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+551,2021-07-26,914,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+552,2021-07-27,916,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+553,2021-07-28,919,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+554,2021-07-29,922,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+555,2021-07-30,924,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+556,2021-07-31,926,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://drive.google.com/file/d/17dvoWVtBcvAT4qX5MJWyio7SFkJfh45d/view,"Colo. Health Order No. 20-38 Amended 4 (June 30, 2021)"
+557,2021-08-01,930,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+558,2021-08-02,930,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+559,2021-08-03,932,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+560,2021-08-04,932,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+561,2021-08-05,935,3,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+562,2021-08-06,935,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+563,2021-08-07,937,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+564,2021-08-08,937,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+565,2021-08-09,937,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+566,2021-08-10,937,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+567,2021-08-11,938,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+568,2021-08-12,939,1,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+569,2021-08-13,943,4,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+570,2021-08-14,943,0,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
+571,2021-08-15,945,2,CO,El Paso County,8.0,41.0,2.0,No,Official,https://doc-00-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/55vmnmcq35ab1uickl3llgmmbd112d4r/oi09q1km07q6pkgtsit4nuekfh462se2/1629400425000/3/*/APznzab4uwMH7RfSY03m3SbVvc-17jSZPsgO2TNmpIBi29bf6d0IqdVuvU8Z9cfHyBurmnwFNuYecbZHHPYyvbMe1CWBSRgAEnshaWcRPQlBSSeENZubI13qOpG17pvapd22nMTZfnTfS_REllROwJPHi8KkV6Sm3GIofEnZmAJCsrNwpkdW39BTGcVDt-qcnvrHmlk0Zz4xYtmQHaOsIs8_c3JDLVHs0GmRJNOQPLm6leCqmKZGvSOy5L7tcRBb9MZTzehTzJTIHBLKJlh-GWV--j7DSx16tHl0eTb12PANfOy52soDNPIb8sggpbtlj9dW2aA-9rtFGWHKAbc-4CsNThde5r2qrxPCrTKYFcxSLtKCuU6X84c=,"Colo. Order No. 20-38 (Amended 5) (July 30, 2021)"
